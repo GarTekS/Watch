@@ -1,2 +1,2 @@
-# Watch_2
-https://garteks.github.io/Watch_2/
+# Watch
+https://garteks.github.io/Watch/
